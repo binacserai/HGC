@@ -1,1 +1,1 @@
-# HGC
+Genomic clustering model: Apply PCA on our data followed by Various Clustering Algorithms like K-means, hierarchical analysis and finding modularity score for every algorithm and taking the algorithm that yields the best score. Uncovering genetic patterns.
